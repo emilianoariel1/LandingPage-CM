@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Community Manager & Diseñador Creativo",
+  title: "Diego Ezequiel Sidlouski",
   description: "Transformo ideas en experiencias visuales únicas. Especializado en gestión de redes sociales, diseño gráfico y estrategias de contenido.",
 };
 
