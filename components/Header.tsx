@@ -40,7 +40,7 @@ export default function Header() {
             Servicios
           </a>
           <a href="#courses" className="text-gray-300 hover:text-purple-400 transition-colors font-medium">
-            Cursos
+            Templates
           </a>
           <a href="#contact" className="text-gray-300 hover:text-purple-400 transition-colors font-medium">
             Contacto
